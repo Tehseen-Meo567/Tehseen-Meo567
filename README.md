@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Tehseen-Meo567
+- By profession, I am electrical engineer
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Computer Vision and System and Computer Design Research 
 - 🌱 I’m currently learning AI,and Computer Vision 
 - 💞️ I’m looking to collaborate on edge technologies and web development project 
